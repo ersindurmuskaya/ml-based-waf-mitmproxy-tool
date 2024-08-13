@@ -1,0 +1,12 @@
+badwords_sql = ['OR','or', 'AND','and', 'LIKE','like','HAVING','having','where','WHERE',
+            'INJECTX','injectx','ORDER','order','ORDER BY','order by','RLIKE','rlike',
+            'SELECT','select','CASE','case','WHEN','when','DROP','drop','UNION','union',
+            'group by','GROUP BY','LIMIT','limit','system_user','SYSTEM_USER','table_schema',
+            'table_name','FROM','from','information_Schema','tables','substring','sysserverse',
+            'sysusers','xp_cmdshell','BACKUP','backup','database','create','CREATE','table',
+            'insert','INSERT','NULL','null','exec','sp_addlogin','sp_addsrvrolemember','sysadmin',
+            'mysql.user','connect','char','waitfor','WAITFOR','DELAY','delay','pg_sleep','hex',
+            'delete','DELETE','sleep','SLEEP','nvarchar','benchmark','MD5','PRINT','print',
+            'objectclass','sqlvuln','members','load_file','sqlattempt2','nslookup','begin',
+            'BEGIN','bfilename','replace','REPLACE','COUNT','count','tabname','syscolumns',
+            'SELECTCHAR','CONVERT','CHAR']

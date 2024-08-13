@@ -1,0 +1,1 @@
+https://pypa.github.io/pipx/

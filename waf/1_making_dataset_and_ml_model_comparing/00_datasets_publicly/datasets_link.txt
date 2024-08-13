@@ -1,0 +1,7 @@
+HTTP Params 2015 
+https://github.com/aref2008/waf/blob/master/HTTPParams.csv
+https://github.com/Morzeux/HttpParamsDataset
+
+cısc 2010
+https://github.com/aref2008/waf/blob/master/CSIC.csv
+

@@ -1,0 +1,1 @@
+https://docs.mitmproxy.org/stable/overview-installation/#installation-from-the-python-package-index-pypi

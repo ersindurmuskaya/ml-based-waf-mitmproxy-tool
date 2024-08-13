@@ -1,0 +1,8 @@
+badwords_lfi = ['etc','passwd','ZXRj','L3Bhc3N3ZA==','Li4v','shadow', 'aliases',
+            'anacrontab', 'apache2','at.allow', 'at.deny','bashrc', 'bootptab',
+            'hosts', 'httpd','opt', 'proc','root','usr','local','sbin', 'var',
+            'mysql', 'atfp_history','bash','ssh', 'boot.ini',
+            'proc', 'C:\\', 'c:\\','localstart.asp','apache','Volumes',
+            'C:/', 'desktop.ini','ProgramFiles','xampp', 'bin','WINNT',
+            'conf','MySQL','cmdline','database',
+            'hostname', 'c:/']

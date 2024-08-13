@@ -1,0 +1,5 @@
+badwords_osc = ['type', 'necho','usr', 'bin', 'whoami', 'ipconfig', 
+			'system', 'cat', 'phpinfo', 'exec', 'phpversion', 'pwd',
+			'eval', 'echo', 'sleep', 'curl', 'wget', 'which', 'netstat', 
+			'dir', 'uname', 'nid', 'perl', 'systeminfo', 'reg', 'print', 
+			'netsh', 'hexdec', 'dechex', 'sysinfo', 'net', 'cmd', 'SERVER', 'route', 'ping', 'ifconfig','script']
